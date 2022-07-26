@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAA;EAEd,OAAO,EAAE,OAAO;EAChB,UAAU,EAAE,MAAM;CAgBnB;;AAnBD,AAIE,gBAJc,CAId,EAAE,CAAA;EACA,aAAa,EAAE,CAAC;CACjB;;AANH,AAOE,gBAPc,CAOd,CAAC,CAAA;EACC,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,GAAG;CACb;;AAVH,AAWE,gBAXc,CAWd,MAAM,CAAA;EACJ,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,KAAK;CAKjB;;AAlBH,AAcI,gBAdY,CAWd,MAAM,CAGJ,GAAG,CAAA;EACD,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,eAAe;CAC3B",
+    "sources": [
+        "FavoritesEmpry.module.scss"
+    ],
+    "names": [],
+    "file": "FavoritesEmpry.module.css"
+}

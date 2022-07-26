@@ -1,0 +1,25 @@
+.profile_empty {
+  padding: 150px 0;
+  text-align: center;
+}
+
+.profile_empty h2 {
+  margin-bottom: 0;
+}
+
+.profile_empty p {
+  margin-top: 10px;
+  opacity: 0.4;
+}
+
+.profile_empty button {
+  margin-top: 70px;
+  max-width: 245px;
+}
+
+.profile_empty button img {
+  float: left;
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
+}
+/*# sourceMappingURL=ProfileEmpty.module.css.map */

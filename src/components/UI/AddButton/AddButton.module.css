@@ -1,0 +1,23 @@
+.add_btn {
+  width: 32px;
+  height: 32px;
+  background: #FFFFFF;
+  border: 1px solid #F2F2F2;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.add_btn_active {
+  width: 32px;
+  height: 32px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#89F09C), to(#3CC755));
+  background: linear-gradient(180deg, #89F09C 0%, #3CC755 100%);
+  border: 1px solid #F2F2F2;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn_add-img {
+  display: block;
+}
+/*# sourceMappingURL=AddButton.module.css.map */

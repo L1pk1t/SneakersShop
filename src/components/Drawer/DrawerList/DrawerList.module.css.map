@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAA;EACV,IAAI,EAAE,CAAC;EACP,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,CAAC;EACV,aAAa,EAAE,IAAI;EACnB,QAAQ,EAAE,IAAI;CACf",
+    "sources": [
+        "DrawerList.module.scss"
+    ],
+    "names": [],
+    "file": "DrawerList.module.css"
+}

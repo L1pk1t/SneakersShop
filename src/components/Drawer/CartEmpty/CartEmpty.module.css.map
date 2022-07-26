@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAA;EACV,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,MAAM;CAanB;;AAfD,AAGE,YAHU,CAGV,CAAC,CAAA;EACC,OAAO,EAAE,GAAG;EACZ,aAAa,EAAE,IAAI;CACpB;;AANH,AAQE,YARU,CAQV,MAAM,CAAA;EACJ,SAAS,EAAE,KAAK;CAKjB;;AAdH,AAUI,YAVQ,CAQV,MAAM,CAEJ,GAAG,CAAA;EACD,KAAK,EAAC,IAAI;EACV,SAAS,EAAE,eAAe;CAC3B",
+    "sources": [
+        "CartEmpty.module.scss"
+    ],
+    "names": [],
+    "file": "CartEmpty.module.css"
+}

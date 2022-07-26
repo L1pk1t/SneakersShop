@@ -1,0 +1,19 @@
+
+.profile{
+  padding-bottom: 40px;
+}
+
+.container{
+  padding: 0 40px;
+}
+
+.profile__header{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  h2{
+    margin-left: 21px;
+  }
+}

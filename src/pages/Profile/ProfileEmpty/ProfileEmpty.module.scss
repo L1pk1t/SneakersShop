@@ -1,0 +1,19 @@
+.profile_empty{
+  padding: 150px 0;
+  text-align: center;
+  h2{
+    margin-bottom: 0;
+  }
+  p{
+    margin-top: 10px;
+    opacity: 0.4;
+  }
+  button{
+    margin-top: 70px;
+    max-width: 245px;
+    img{
+      float: left;
+      transform: rotateY(180deg);
+    }
+  }
+}

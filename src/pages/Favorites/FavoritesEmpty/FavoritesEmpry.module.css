@@ -1,0 +1,25 @@
+.favorites_empty {
+  padding: 150px 0;
+  text-align: center;
+}
+
+.favorites_empty h2 {
+  margin-bottom: 0;
+}
+
+.favorites_empty p {
+  margin-top: 10px;
+  opacity: 0.4;
+}
+
+.favorites_empty button {
+  margin-top: 70px;
+  max-width: 245px;
+}
+
+.favorites_empty button img {
+  float: left;
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
+}
+/*# sourceMappingURL=FavoritesEmpry.module.css.map */

@@ -1,0 +1,20 @@
+.cart__empty {
+  margin-top: 150px;
+  text-align: center;
+}
+
+.cart__empty p {
+  opacity: 0.4;
+  margin-bottom: 40px;
+}
+
+.cart__empty button {
+  max-width: 250px;
+}
+
+.cart__empty button img {
+  float: left;
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
+}
+/*# sourceMappingURL=CartEmpty.module.css.map */
