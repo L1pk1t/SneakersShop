@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,eAAe,CAAA;EACb,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;EACnB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,qBAAqB,EAAE,uBAAuB;EAC9C,QAAQ,EAAE,IAAI;EACd,OAAO,EAAE,IAAI;CACd",
-    "sources": [
-        "FavoriteList.module.scss"
-    ],
-    "names": [],
-    "file": "FavoriteList.module.css"
-}

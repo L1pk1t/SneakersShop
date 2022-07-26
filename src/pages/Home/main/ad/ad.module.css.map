@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,UAAU,CAAA;EACR,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,OAAO;CAChB;;AAED,AAAA,QAAQ,CAAA;EACN,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,MAAM;CACf",
-    "sources": [
-        "ad.module.scss"
-    ],
-    "names": [],
-    "file": "ad.module.css"
-}
